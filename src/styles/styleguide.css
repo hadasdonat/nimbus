@@ -1,0 +1,28 @@
+:root {
+  --font-family: "Rubik", Helvetica, Arial, sans-serif;
+
+  /* Font Sizes */
+  --font-size-large: 24px;
+  --font-size-medium: 18px;
+  --font-size-small: 16px;
+
+  /* Colors */
+  --color-primary: #0045a3;
+  --color-secondary: #083058;
+  --color-background: #ffffff;
+  --color-border: #e0e0e0;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+
+  /* Border Radius */
+  --border-radius: 8px;
+  --border-radius-full: 50%;
+
+  /* Shadows */
+  --shadow-default: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
